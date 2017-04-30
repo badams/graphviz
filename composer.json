@@ -1,6 +1,6 @@
 {
-  "name": "alom/graphviz",
-  "description": "Graphviz generation for PHP",
+  "name": "badams/graphviz",
+  "description": "Temporary fork of alom/graphviz",
   "keywords": ["dot", "graphviz"],
   "homepage": "http://github.com/alexandresalome/graphviz",
   "type": "library",
