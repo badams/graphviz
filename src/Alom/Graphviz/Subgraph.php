@@ -38,6 +38,6 @@ class Subgraph extends Graph
      */
     protected function getHeader($id)
     {
-        return 'subgraph ' . $id;
+        return 'subgraph ' . $this->escape($id);
     }
 }
